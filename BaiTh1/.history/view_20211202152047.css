@@ -1,0 +1,14 @@
+footer a {
+    text-decoration: none;
+}
+
+.btn-wrap {
+    display: flex;
+    align-items: center;
+}
+
+.btn-color {
+    background-color: rgb(31, 114, 31);
+    color: #fff;
+    padding: 5px 8px;
+}

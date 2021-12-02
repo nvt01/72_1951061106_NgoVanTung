@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --text-color: rgb(187, 184, 184);
+}
+
+.navbar {
+    margin-bottom: 40px;
+}
+
+.content {
+    text-align: justify;
+}
+
+.container .h1 {
+    font-weight: 400;
+}
+
+.container .h3 {
+    padding-bottom: 10px;
+    color: var(--text-color);
+    font-size: 18px;
+}
+
+.main-picture {
+    border-radius: 5px;
+    width: 100%;
+}
+
+.text-center a {
+    text-decoration: none;
+    color: var(--text-color);
+}
+

@@ -1,0 +1,12 @@
+footer a {
+    text-decoration: none;
+}
+
+.btn-wrap {
+    display: flex;
+}
+
+.btn-color {
+    background-color: rgb(83, 190, 83);
+    color: #fff;
+}
